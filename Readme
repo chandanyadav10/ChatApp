@@ -1,0 +1,10 @@
+bcrypt & bcrypt js:- is a libraray to encript password.
+{bcrypt.hash(password, 10)}
+
+// How to generate tokens
+JWD Tokens:-(install jsonwebtoken)
+{to generate token, first open git bash terminal and the write command(openssl rand -base64 32) than token will be generate}
+
+keywords={xss, csrf}
+
+ReactHookForm:-
